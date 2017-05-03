@@ -1,0 +1,4 @@
+reggie package
+===============
+
+.. automodule:: reggie
